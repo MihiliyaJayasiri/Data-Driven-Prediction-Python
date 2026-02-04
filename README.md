@@ -29,10 +29,10 @@ a data-driven prediction solution using Python.
    - Evaluated using MAE / MSE
 
 ## Repository Contents
-- `src/` – Python source code
+- `codefile.ipynb` – Jupyter notebook
 - `report.pdf` – Formal academic report
 - `presentation.pdf` – Coursework presentation
-- `data/` – Dataset used for analysis
+- `data` – Dataset used for analysis
 
 ## Academic Note
 This is an individual take-home coursework completed during the 2nd Year 1st Sem (2025) academic year.
